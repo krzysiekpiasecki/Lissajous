@@ -4,7 +4,7 @@ HTTP server deployed on Heroku, generating Lissajous curves animations (GIF), wr
 
 ### Demo
 
-Visit the page https://lissajous-go.herokuapp.com/?cycles=64&size=200&delay=8&frames=64&res=0.002
+Visit the page https://lissajous-go.herokuapp.com/?cycles=10&size=200&delay=8&frames=64&res=0.001
 
 __Use query string to change parameters.__
 
