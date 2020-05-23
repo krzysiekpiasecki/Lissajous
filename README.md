@@ -2,7 +2,13 @@
 
 HTTP server deployed on Heroku, generating Lissajous curves animations (GIF), written in GO programming language. Implementation inspired by the example from the book 'The Go Programming Language'.
 
-![Lissajous](https://github.com/krzysiekpiasecki/lissajous/blob/master/lissajousCurves.gif)
+<p align="center">
+  <br>
+  <img src="https://github.com/krzysiekpiasecki/lissajous/blob/master/lissajousCurves.gif" align="center">
+  <br>
+</p>
+
+### 
 
 For more examples please visit https://lissajous-go.herokuapp.com/?cycles=2&size=200&delay=8&frames=64&res=0.002
 
