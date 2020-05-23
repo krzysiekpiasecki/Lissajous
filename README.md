@@ -4,7 +4,7 @@ HTTP server generating Lissajous curves animation(GIF), written in go and heavil
 
 ### Demo
 
-Visit: https://lissajous-go.herokuapp.com/?cycles=64&size=200&delay=8&frames=64&res=0.002
+Visit: https://lissajous-go.herokuapp.com/?cycles=2&size=200&delay=8&frames=64&res=0.002
 
 Use query string to change parameters.
 
