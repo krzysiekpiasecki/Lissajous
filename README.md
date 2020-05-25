@@ -8,13 +8,22 @@ HTTP server deployed on Heroku, generating Lissajous curves animations (GIF), wr
   <br>
 </p>
 
-### Demo
+## Web Demo
 
 https://lissajous-go.herokuapp.com/?cycles=2&size=200&delay=8&frames=64&res=0.002
 
-**Use query string to change parameters**
+Use query string to change parameters
 
-### Links
+## Build and run locally
+
+```bash
+git clone https://github.com/krzysiekpiasecki/Lissajous.git
+cd Lissajous
+export PORT=8080
+go run ./src/lissajous/lissajous.go
+```
+
+## Links
 
 [Lissajous curves](https://en.wikipedia.org/wiki/Lissajous_curve)
 
